@@ -1,1 +1,3 @@
-# Analyzing-Sales-Data-with-MongoDB-Atlas-and-Charts
+Analyzing-Sales-Data-with-MongoDB-Atlas-and-Charts
+
+This project involves setting up a MongoDB database and performing data analysis using MongoDB Atlas and MongoDB Charts. The dataset, provided in a CSV file, is first imported into MongoDB, followed by data cleaning and preprocessing using pandas in a Jupyter notebook. Key tasks include addressing data quality issues, such as formatting inconsistencies, and creating calculated fields like Revenue. Visualizations are then generated, including a heatmap to explore the relationship between product IDs and revenue, a stacked bar chart to analyze sales channel contributions, and an additional custom visualization. The project concludes with a reflection on the data cleaning process and its impact on the quality of insights derived from the data.
